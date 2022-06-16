@@ -4,4 +4,4 @@ Projeto fictício e não funcional criado para demonstrar os funcionamentos do c
 
 ### TREINAMENTO DO CURSO
 
-[link]http://devmasterteam.com/Curso/Git
+http://devmasterteam.com/Curso/Git
